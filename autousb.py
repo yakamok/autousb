@@ -4,7 +4,7 @@ import pyudev
 
 mount_point = "/mnt/temp/"
 rsync_com = "rsync -av "
-device_name = "6373fd2d-b7c0-4107-876b-d42f675714b8"
+device_name = "UUID"
 user_name = "yakamo"
 context = pyudev.Context()
 
